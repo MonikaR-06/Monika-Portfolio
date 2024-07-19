@@ -5,9 +5,9 @@ export const Bio = {
   roles: ["Frontend Developer", "React JS Developer"],
   description:
     "I am a motivated and always eager to take on new challenges. I am dedicated in delivering high-quality results With a passion for learning. I am ready to make a meaningful contribution and achieve great things With a positive attitude and a growth mindset.",
-  github: "https://github.com/monikaa06",
+  github: "https://github.com/MonikaR-06",
   resume:
-    "https://drive.google.com/file/d/1JjQy7nk3jD1emCPkpwjl2GoI8yTmv0hw/view?usp=drive_link",
+    "https://drive.google.com/file/d/1gandoXCX4JW581jcyA1muybkM4kMWkPr/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/monikar06/",
 };
 
@@ -234,7 +234,7 @@ export const projects = [
     description:
       "A way to increase productivity stopping you to forgetting things, helps priority task,Manage task effectively. ",
     image:
-      "https://private-user-images.githubusercontent.com/148076194/346491731-3025ca9e-a374-4a02-965b-5b20e8924aab.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA0MzY4MjgsIm5iZiI6MTcyMDQzNjUyOCwicGF0aCI6Ii8xNDgwNzYxOTQvMzQ2NDkxNzMxLTMwMjVjYTllLWEzNzQtNGEwMi05NjViLTViMjBlODkyNGFhYi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwOFQxMTAyMDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NzlkYjczZWFmMzU1MmIwODdjNGVhM2VlNTg2MzZhOGE3ODljOTczYzRhODE1YzY2YTUxMDZiZGEzYTJmNDMxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.cevEof-bNcxE-XQ-p1dcsHibI24wDkeT-6t_zoViWfk",
+      "https://tse4.mm.bing.net/th?id=OIP.Tai24BuXPmuSiOsItwzedgAAAA&pid=Api&P=0&h=180",
     tags: [
       "CRUD",
       "PropDrilling",
@@ -255,7 +255,7 @@ export const projects = [
     description:
       "A reliable shopping cart service, prospective buyers have the possibility to preselect, reserve, and store items they’d like to own.",
     image:
-      "https://private-user-images.githubusercontent.com/148076194/346466094-3df73dc7-0975-4e1a-a6be-2e5eaf2afac5.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA0MzYyNTIsIm5iZiI6MTcyMDQzNTk1MiwicGF0aCI6Ii8xNDgwNzYxOTQvMzQ2NDY2MDk0LTNkZjczZGM3LTA5NzUtNGUxYS1hNmJlLTJlNWVhZjJhZmFjNS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwOFQxMDUyMzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNGEyNzYxNTZkOTI2NDFiNzVhZThlNmM2ZTYyNTZmZmNkMGZhNDNlNzNhZDU1NTIxZWVmZWQ1ZWM0ZTY0MmM2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.42OjayHZBzLeiQ7iiQYbpaV0QWR8qD0aRvLzSnN0MhA",
+      "https://img.freepik.com/premium-photo/cartoon-shopping-cart-3d_853677-36954.jpg",
     tags: ["React", "JavaScript", "HTML", "Bootstrap", "Redux", "CSS"],
     category: "Shopping Cart",
     github:
@@ -267,8 +267,7 @@ export const projects = [
     title: "Book Shopping",
     description:
       "A bookstore’s presence online can give your business an edge to earn great results and meet the evolving needs of the modern customer.",
-    image:
-      "https://private-user-images.githubusercontent.com/148076194/346458068-ca4871a3-298d-4132-b06f-fe2ef8e3b4fe.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA0MzY2MTEsIm5iZiI6MTcyMDQzNjMxMSwicGF0aCI6Ii8xNDgwNzYxOTQvMzQ2NDU4MDY4LWNhNDg3MWEzLTI5OGQtNDEzMi1iMDZmLWZlMmVmOGUzYjRmZS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwOFQxMDU4MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNTg3NzYwYTgwYzA4MmNmZWZmYzUzY2M1M2Q5ZWI3ZThkMDUzNDE2NmRkNzZlODM2ZjE5MWFhNmZjMzYyYzVhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.a-BMf2JTdekxk9KEr0TvOo_YsI1FE3Gd0ctFP5XHrH4",
+    image: "https://clipground.com/images/bookshop-clipart-2.jpg",
     tags: ["Router", "React", "JavaScript", "HTML", "Bootstrap", "CSS"],
     category: "Book Shopping",
     github: "https://github.com/monikaa06/Book-Shopping-using-Router.git",
@@ -276,16 +275,16 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Social Media App",
+    title: "Light Dark Theme App",
     description:
-      "To publish truly effective social media content, you need to understand the specific purpose and value of each element of a post.",
+      "Light themes are better suited for brightly lit environments or daytime use. Light themes convey cleanliness, simplicity, and elegance, while dark themes evoke sophistication, modernity, and uniqueness.",
     image:
-      "https://private-user-images.githubusercontent.com/148076194/346485582-c682725c-c89e-46b9-8165-f92580d85e67.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA0MzU2OTcsIm5iZiI6MTcyMDQzNTM5NywicGF0aCI6Ii8xNDgwNzYxOTQvMzQ2NDg1NTgyLWM2ODI3MjVjLWM4OWUtNDZiOS04MTY1LWY5MjU4MGQ4NWU2Ny5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwOFQxMDQzMTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hODIxNTQyNmY0MjRjNTU0MzcwN2U0Nzc2ZmViMDczZGJiMDQzNWI0NWRhZGVjNmI2YWE2ZWQ5NTQxOWVmZDU0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.S5MGBNfnHAciwl6q4b_ZOk7JN2yvHqUJmaxrj1r1ABk",
-    tags: ["Axios", "Context API", "React", "JavaScript", "HTML", "Bootstrap"],
-    category: "Social Media App",
+      "https://tse4.mm.bing.net/th?id=OIP.yBJF9cOh6PKdfYpco7sNWAHaEe&pid=Api&P=0&h=180",
+    tags: ["Context API", "React", "JavaScript", "HTML", "Bootstrap"],
+    category: "Light Dark Theme App",
     github:
-      "https://github.com/monikaa06/Social-Media-App-using-Axios-and-Context-API.git",
-    webapp: "https://gosocialmediaapplication.netlify.app",
+      "https://github.com/monikaa06/Light-Dark-Theme-App-using-Context-API.git",
+    webapp: "https://golightdarkthemeapp.netlify.app",
   },
   {
     id: 3,
@@ -293,7 +292,7 @@ export const projects = [
     description:
       "Implementing an asset inventory management system (sometimes abbreviated as AIM) helps you build a central repository of your assets. The ability to do that is beneficial in more ways than one.",
     image:
-      "https://private-user-images.githubusercontent.com/148076194/346564173-a1cf6c88-ac27-43cb-a50e-6ea5b8d5b320.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA0NDQyODAsIm5iZiI6MTcyMDQ0Mzk4MCwicGF0aCI6Ii8xNDgwNzYxOTQvMzQ2NTY0MTczLWExY2Y2Yzg4LWFjMjctNDNjYi1hNTBlLTZlYTViOGQ1YjMyMC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwOFQxMzA2MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MmNiMTAzNmY1NDA0ZjQ4NzU4YjNlMmFkYmU2N2NjMGIxY2VmYTlkYzA4NjE2MDQyNWFlZjEzN2U5NGJiYzY3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.0iNPc3aizltfcHNRDXJTroCiJZ2BLNKS4XrCQiGmfOE",
+      "https://static.vecteezy.com/system/resources/previews/012/494/550/original/inventory-control-system-concept-professional-manager-and-worker-are-checking-goods-and-stock-supply-inventory-management-with-goods-demand-vector.jpg",
     tags: [
       "Node JS",
       "Mango DB",
@@ -316,7 +315,7 @@ export const projects = [
     description:
       "When it comes to web development and ensuring the security of user accounts, the password reset process is a critical component that should not be overlooked. Therefore, implementing a robust and secure password reset flow is a necessity for any web application that values user security and usability.",
     image:
-      "https://private-user-images.githubusercontent.com/148076194/346571154-7440622d-b025-4250-aeee-85fd361be390.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA0NDM4ODEsIm5iZiI6MTcyMDQ0MzU4MSwicGF0aCI6Ii8xNDgwNzYxOTQvMzQ2NTcxMTU0LTc0NDA2MjJkLWIwMjUtNDI1MC1hZWVlLTg1ZmQzNjFiZTM5MC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwOFQxMjU5NDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZDYyNzIyYmUzYWU4YTcyNDU2NjZiOTdiZmU2ODA5OWIyMWZmYTE4Y2FjZDA1YTNiM2VlYjBhYTg4ZDhkNDRjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.avXMneItCgfTBPtRLWjERYVPrVbOFHaYH6Yiwgs7R6Q",
+      "https://static.vecteezy.com/system/resources/previews/006/584/372/large_2x/illustration-graphic-cartoon-character-of-password-vector.jpg",
     tags: [
       "Node JS",
       "Mango DB",

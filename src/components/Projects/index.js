@@ -34,20 +34,20 @@ const Projects = ({ openModal, setOpenModal }) => {
             </ToggleButton>
           )}
           <Divider />
-          {toggle === "Social Media App" ? (
+          {toggle === "Light Dark Theme App" ? (
             <ToggleButton
               active
-              value="Social Media App"
-              onClick={() => setToggle("Social Media App")}
+              value="Light Dark Theme App"
+              onClick={() => setToggle("Light Dark Theme App")}
             >
-              Social Media App
+              Light Dark Theme App
             </ToggleButton>
           ) : (
             <ToggleButton
-              value="Social Media App"
-              onClick={() => setToggle("Social Media App")}
+              value="Light Dark Theme App"
+              onClick={() => setToggle("Light Dark Theme App")}
             >
-              Social Media App
+              Light Dark Theme App
             </ToggleButton>
           )}
           <Divider />
