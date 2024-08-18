@@ -7,7 +7,7 @@ export const Bio = {
     "I am a motivated and always eager to take on new challenges. I am dedicated in delivering high-quality results With a passion for learning. I am ready to make a meaningful contribution and achieve great things With a positive attitude and a growth mindset.",
   github: "https://github.com/MonikaR-06",
   resume:
-    "https://drive.google.com/file/d/1gandoXCX4JW581jcyA1muybkM4kMWkPr/view?usp=drive_link",
+    "https://drive.google.com/file/d/1xQEbJf7fqN5ox1753WLxNNyJagr8WbbJ/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/monikar06/",
 };
 
