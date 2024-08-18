@@ -246,7 +246,7 @@ export const projects = [
     ],
     category: "ToDo Application",
     github:
-      "https://github.com/monikaa06/ToDo-Application-using-CRUD-and-PropDrilling.git",
+      "https://github.com/MonikaR-06/ToDo-Application-using-CRUD-and-PropDrilling.git",
     webapp: "https://gotodoo.netlify.app",
   },
   {
@@ -259,7 +259,7 @@ export const projects = [
     tags: ["React", "JavaScript", "HTML", "Bootstrap", "Redux", "CSS"],
     category: "Shopping Cart",
     github:
-      "https://github.com/monikaa06/Shopping-Cart-Application-using-Redux.git",
+      "https://github.com/MonikaR-06/Shopping-Cart-Application-using-Redux.git",
     webapp: "https://goshoppingcartapp.netlify.app",
   },
   {
@@ -270,7 +270,7 @@ export const projects = [
     image: "https://clipground.com/images/bookshop-clipart-2.jpg",
     tags: ["Router", "React", "JavaScript", "HTML", "Bootstrap", "CSS"],
     category: "Book Shopping",
-    github: "https://github.com/monikaa06/Book-Shopping-using-Router.git",
+    github: "https://github.com/MonikaR-06/Book-Shopping-using-Router.git",
     webapp: "https://gobookshopping.netlify.app",
   },
   {
@@ -283,7 +283,7 @@ export const projects = [
     tags: ["Context API", "React", "JavaScript", "HTML", "Bootstrap"],
     category: "Light Dark Theme App",
     github:
-      "https://github.com/monikaa06/Light-Dark-Theme-App-using-Context-API.git",
+      "https://github.com/MonikaR-06/Light-Dark-Theme-App-using-Context-API.git",
     webapp: "https://golightdarkthemeapp.netlify.app",
   },
   {
@@ -304,9 +304,9 @@ export const projects = [
     ],
     category: "MERN Stack",
     github:
-      "https://github.com/monikaa06/Inventory-asset-management-tool-frontend.git",
+      "https://github.com/MonikaR-06/Inventory-asset-management-tool-frontend.git",
     github2:
-      "https://github.com/monikaa06/Inventory-asset-management-tool-backend.git",
+      "https://github.com/MonikaR-06/Inventory-asset-management-tool-backend.git",
     webapp: "https://inventory-management-rosy.vercel.app/",
   },
   {
