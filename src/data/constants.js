@@ -234,7 +234,7 @@ export const projects = [
     description:
       "A way to increase productivity stopping you to forgetting things, helps priority task,Manage task effectively. ",
     image:
-      "https://tse4.mm.bing.net/th?id=OIP.Tai24BuXPmuSiOsItwzedgAAAA&pid=Api&P=0&h=180",
+      "https://repository-images.githubusercontent.com/489113542/e1af2fe1-fe23-44d4-9678-5318cf0a2f2b",
     tags: [
       "CRUD",
       "PropDrilling",
